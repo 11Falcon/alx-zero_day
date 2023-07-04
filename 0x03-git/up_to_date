@@ -1,3 +1,2 @@
-get fetch origin main : tmp
-git rebase tmp
-git push
+git fetch 
+git pull
